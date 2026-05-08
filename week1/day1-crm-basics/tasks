@@ -1,0 +1,90 @@
+
+
+# Task 1: Understand Business Flow
+
+## Lead → Contact → Opportunity → Customer
+
+### Lead
+A Lead is a person who shows interest in a product or service but is not yet confirmed as a customer. At this stage, the business only has basic information about the person.
+
+Example:
+- A student asking about college admission
+- A customer filling out an inquiry form
+
+---
+
+### Contact
+A Contact is a qualified person whose details are stored in the system. The organization can now communicate properly with the person.
+
+Example:
+- A student who submitted personal details
+- A customer whose phone number and email are recorded
+
+---
+
+### Opportunity
+An Opportunity represents a possible business deal or successful conversion. At this stage, the organization is actively working toward completing the process.
+
+Example:
+- Admission application process
+- Product purchase discussion
+
+---
+
+### Customer
+When the process is completed successfully, the person becomes a Customer.
+
+Example:
+- Student successfully joins the college
+- Customer purchases the product
+
+---
+
+## Business Flow Summary
+
+```text
+Lead → Contact → Opportunity → Customer
+```
+
+This flow helps organizations track customer progress, improve communication, and manage business processes efficiently.
+
+---
+
+# Task 2: Real-Life Mapping
+
+## Selected Example: College Admission System
+
+| Salesforce Object | Real-Life Mapping |
+|------------------|------------------|
+| Account | College |
+| Contact | Student |
+| Lead | Student interested in admission |
+| Opportunity | Admission application process |
+
+---
+
+## Explanation
+
+### Account = College
+The college or institution providing education services.
+
+---
+
+### Contact = Student
+The student who is connected to the college.
+
+---
+
+### Lead = Student Interested in Admission
+A student who asks for course details or admission information but has not yet enrolled.
+
+---
+
+### Opportunity = Admission Application Process
+The active admission process where the college and student are working toward successful enrollment.
+
+---
+
+# Conclusion
+
+Salesforce CRM helps organizations manage relationships and track processes efficiently using Leads, Contacts, Opportunities, and Accounts.
