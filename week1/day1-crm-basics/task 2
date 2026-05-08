@@ -1,0 +1,41 @@
+Selected Example: College Admission System
+Salesforce Object	Real-Life Example
+Account	College
+Contact	Student
+Lead	Student interested in admission
+Opportunity	Admission application process
+📖 Explanation
+🏫 Account = College
+
+The organization providing services.
+
+Example:
+
+Engineering College
+University
+👨‍🎓 Contact = Student
+
+The person connected to the organization.
+
+Example:
+
+Student applying for admission
+📩 Lead = Interested Student
+
+A student who:
+
+asks about courses
+visits website
+requests admission details
+
+but has not yet applied.
+
+🎯 Opportunity = Admission Process
+
+The active admission application that may result in successful enrollment.
+
+Example:
+
+Application review
+Fee discussion
+Seat confirmation
